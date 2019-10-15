@@ -91,7 +91,7 @@
 			<version>2.1.0</version>
 			<configuration>
 				<version>1</version>
-				<projectId>cmpe281lab2sampleproject</projectId>
+				<projectId>demosample-01</projectId>
 			</configuration>
 		</plugin>
 		</plugins>
