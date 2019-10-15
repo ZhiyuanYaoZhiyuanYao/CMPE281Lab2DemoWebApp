@@ -77,7 +77,7 @@
 				<version>2.1.0</version>
 				<configuration>
 					<version>1</version>
-					<projectId>cmpe281lab2sampleproject</projectId>
+					<projectId>GCLOUD_CONFIG</projectId>
 				</configuration>
 			</plugin>
 		</plugins>
