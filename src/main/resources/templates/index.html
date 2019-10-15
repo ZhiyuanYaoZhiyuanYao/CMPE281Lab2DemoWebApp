@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Get your greeting!</title>
+</head>
+<body>
+    <h1>Get your greeting!</h1>
+    <form action="#" th:action="@{/greeting}" th:object="${person}" method="post">
+        <p>Name: <input type="text" th:field="*{name}"/></p>
+        <p><input type="submit" value="Submit" /></p>
+    </form>
+</body>
+</html>
